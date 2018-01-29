@@ -1,0 +1,4 @@
+notebooks/.ipynb_checkpoints
+notebooks/summary
+notebooks/train
+notebooks/cifar-10-batches-bin
